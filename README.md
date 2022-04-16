@@ -1,4 +1,6 @@
 # pretty-env-js
+![Logo](./images/logo.png)
+
 This is a CLI tool to display env output results in a slightly clearer view.
 
 ## Usage
