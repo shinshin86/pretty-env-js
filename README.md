@@ -32,3 +32,9 @@ yarn lint
 ```sh
 yarn fmt
 ```
+
+## License
+[MIT](https://github.com/shinshin86/pretty-env-js/blob/main/LICENSE)
+
+## Author
+[Yuki Shindo](https://shinshin86.com/en)
